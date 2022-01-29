@@ -1,0 +1,23 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "study1.ManProperties",
+      "name": "man",
+      "type": "study1.ManProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "study1.ManProperties",
+      "defaultValue": 0,
+      "name": "man.age",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "study1.ManProperties",
+      "name": "man.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
